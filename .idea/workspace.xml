@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dea86d2-3cea-4811-9371-e42ae301953a" name="Changes" comment="" />
+    <list default="true" id="3dea86d2-3cea-4811-9371-e42ae301953a" name="Changes" comment="Commit coche para arreglar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mejoras" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Alfonsosoriano"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alfonsosoriano/Examen-gitIntelij.git",
+    "accountId": "5257a157-2cf7-4e7a-ba6f-d32c71422273"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -36,14 +66,95 @@
       <option name="presentableId" value="Default" />
       <updated>1732091499850</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creamos main">
+      <option name="closed" value="true" />
+      <created>1732091557264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732091557264</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creamos coche">
+      <option name="closed" value="true" />
+      <created>1732091600849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732091600849</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creamos cliente">
+      <option name="closed" value="true" />
+      <created>1732091629270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732091629270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cambios en coche">
+      <option name="closed" value="true" />
+      <created>1732091697431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732091697431</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cambios">
+      <option name="closed" value="true" />
+      <created>1732091837655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732091837655</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit coche para arreglar">
+      <option name="closed" value="true" />
+      <created>1732092045194</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732092045194</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master/mejoras" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creamos main" />
+    <MESSAGE value="Creamos coche" />
+    <MESSAGE value="Creamos cliente" />
+    <MESSAGE value="Cambios en coche" />
+    <MESSAGE value="Cambios" />
+    <MESSAGE value="Commit coche para arreglar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit coche para arreglar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
